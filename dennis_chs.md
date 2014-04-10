@@ -17,6 +17,8 @@ Dennis Resume
 	
 	-   编写SNMP监控信息模块.
 	-   协助开发iSCSI的C++实现.
+	-   维护开发文件和数据库备份项目. 
+	-   开发存储系统平台ustor开发子模块.
 	-   负责开发个人存储系统模块RAID，WIFI，UPS.
 	-   负责CI(Windows项目自动构建)软件的设计及编码工作.
 	-	负责存储产品监控信息液晶屏显示软件的框架设计以及代码实现工作.
@@ -33,14 +35,45 @@ Dennis Resume
 
 *   **桂林电子科技大学** 信息与计算科学 本科 2002/09 ~ 2006/07 
 
+项目经验
+--------
+
+*   存储产品监控信息液晶屏显示
+    -   项目架构设计
+    -   模块接口规划与编写代码
+    -   编写开发文档
+*   两盘位存储产品
+    -   编写WIFI连接模块(Linux shell脚本)
+    -   编写Riad创建删除模块(Linux shell脚本)
+*   存储软件新功能开发
+    -   生成产品序列号
+    -   磁盘LED状态灯控制
+*   SNMP监控信息
+    -   编写开源软件Net-SNMP源码下的自定义Mib
+	-   查询系统信息，提供snmpget，snmpwalk查询和snmptrap告警
+*	SOR库
+	-    解析196和4731格式SOR文件
+*	CI(Windows 项目自动构建)
+	-    设计软件模块
+	-    编写开发文档
+*   FOMA 光纤监测告警系统
+    -   项目架构设计
+	-	开发ActiveX元件
+	-	负责OTDR模块开发
+	-	负责数据分析模块开发
+	-	带领新人完成模块学习和系统测试
+	-	负责与总部领导进行项目进度沟通
+
 开发技术
 --------
 
-*   1.熟悉vim, 
+*   1.熟悉vim 
 *   2.掌握gcc, gdb, makefile
-*   3.使用svn, git, sed, awk, grep, find.
+*   3.熟悉svn, git, sed, awk, grep, find.
 *   4.掌握Linux C/C++, shell编程. 
-*   5.学习Linux Kernel网络协议栈编程.
+*	5.学习Linux Kernel网络协议栈编程.
+*	6.掌握完全Linux环境下工作(Fedora)
+*	7.掌握Windows环境C/C++, 批处理编程.
 
 业余活动
 --------

@@ -35,33 +35,29 @@ Work Experience
 Project Experience
 ------------------
 
-*   **CI**
-
-    Auto compile and package project
-
+*   **CI**  
+    Auto compile and package project  
     -   Design architecture and Implementing sub-modules
 
-*	**ZD15**
+*   **2baynas**   
+	storage for person  
+    -   implement WIFI module(shell script)
+    -   Implement Riad module(shell script)
 
-	Monitor system information and display on LED
-
+*	**ZD15**  
+	Monitor system information and display on LED  
     -   Design architecture and Implementing sub-modules
 
-*	**USAMBA**
-
-	Implementing CIFS protocol under linux,	2013/09 - 2013/11
-
+*	**USAMBA**  
+	Implementing CIFS protocol under linux,	2013/09 - 2013/11  
 	-	Design architecture and sub-modules
 	-	Implementing the sub-modules
 
-*	**SNMP-Mib**
+*	**SNMP-Mib**  
+	Write selfdefine snmp agent mib, 2013/05 - 2013/11  
 
-	Write selfdefine snmp agent mib, 2013/05 - 2013/11
-
-*	**NFO**
-
-	Network Fiber OTDR,	2010/12 - 2011/04
-
+*	**NFO**  
+	Network Fiber OTDR,	2010/12 - 2011/04  
 	-	Design modules and flow chart
 	-	Coding for SOR parse and building module,
 		make curve display OCX control,
@@ -69,10 +65,8 @@ Project Experience
 	-	Write project makefile.
 	-	Make architecture for server side, and function coding.
 
-*	**FOMA**
-
-	Fiber Optical Monitoring and Alarm System,  2008/03 - 2012/04
-
+*	**FOMA**  
+	Fiber Optical Monitoring and Alarm System,  2008/03 - 2012/04  
 	-	Do the design and technical approach page for develop.
 	-	Design database table relation.
 	-	In charge of OTDR module(project main module) development.
@@ -80,6 +74,13 @@ Project Experience
 	-	In charge of activeX component development.
 	-	In charge of leading new colleagues participate in system testing and module learning
 	-	In charge of communication and coordination with headquarters in Taiwan project progress
+
+Education
+---------
+
+*   GuiLin University Of Electronic Technology Bachelor From 2002/09 to 2006/07
+
+	Information and Computation Science
 
 Skills
 ------
