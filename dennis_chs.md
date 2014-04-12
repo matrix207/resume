@@ -30,11 +30,6 @@ Dennis Resume
 	-   维护在uLinux平台上运行的程序.
 	-   开发FOMA光纤监测系统
 
-教育经历
---------
-
-*   **桂林电子科技大学** 信息与计算科学 本科 2002/09 ~ 2006/07 
-
 项目经验
 --------
 
@@ -43,16 +38,16 @@ Dennis Resume
     -   模块接口规划与编写代码
     -   编写开发文档
 *   两盘位存储产品
-    -   编写WIFI连接模块(Linux shell脚本)
-    -   编写Riad创建删除模块(Linux shell脚本)
+    -   编写WIFI连接模块(iwlist,wpa_cli,dhclient,ifconfig)
+    -   编写Riad创建删除模块(mount,umount,mdadm,fuser,mkfs)
 *   存储软件新功能开发
     -   生成产品序列号
-    -   磁盘LED状态灯控制
+    -   磁盘LED状态灯控制(sg_map,sg_ses)
 *   SNMP监控信息
     -   编写开源软件Net-SNMP源码下的自定义Mib
 	-   查询系统信息，提供snmpget，snmpwalk查询和snmptrap告警
-*	SOR库
-	-    解析196和4731格式SOR文件
+	-   使用多线程和缓存方式提高响应速度
+	-   使用snmptrapd测试snmptrap
 *	CI(Windows 项目自动构建)
 	-    设计软件模块
 	-    编写开发文档
@@ -67,15 +62,22 @@ Dennis Resume
 开发技术
 --------
 
-*   1.熟悉vim 
+*   1.熟悉vim(IDE)
 *   2.掌握gcc, gdb, makefile
-*   3.熟悉svn, git, sed, awk, grep, find.
-*   4.掌握Linux C/C++, shell编程. 
-*	5.学习Linux Kernel网络协议栈编程.
+*   3.熟悉svn, git, sed, awk, grep, find
+*   4.掌握Linux C/C++, shell编程
+*	5.学习Linux Kernel网络协议栈编程
 *	6.掌握完全Linux环境下工作(Fedora)
-*	7.掌握Windows环境C/C++, 批处理编程.
+*	7.掌握Windows环境C/C++, 批处理编程
+
+教育经历
+--------
+
+*   **桂林电子科技大学** 信息与计算科学 本科 2002/09 ~ 2006/07 
 
 业余活动
 --------
 
-*	骑行,台球,羽毛球,篮球,数独
+*	骑行  (骑龄:2012/10至今, 行程:2000km, 骑士四级)
+*   台球  (球龄:2006/09至今, 单杆最高:30, 业余四级)
+*	其他  (羽毛球,篮球,扫雷,数独)
