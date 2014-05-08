@@ -15,19 +15,19 @@ Dennis Resume
 
 *	**创新科存储技术有限公司**  软件工程师 2012/07 ~ 2013/11
 	
-	-   编写SNMP监控信息模块.
-	-   协助开发iSCSI的C++实现.
-	-   维护开发文件和数据库备份项目. 
-	-   开发存储系统平台ustor开发子模块.
-	-   负责开发个人存储系统模块RAID，WIFI，UPS.
-	-   负责CI(Windows项目自动构建)软件的设计及编码工作.
-	-	负责存储产品监控信息液晶屏显示软件的框架设计以及代码实现工作.
+	-   编写SNMP监控信息模块
+	-   协助开发iSCSI的C++实现
+	-   维护开发文件和数据库备份项目
+	-   开发存储系统平台ustor开发子模块
+	-   负责开发个人存储系统模块RAID，WIFI，UPS
+	-   负责CI(Windows项目自动构建)软件的设计及编码工作
+	-	负责存储产品监控信息液晶屏显示软件的框架设计以及代码实现工作
 
 *	**捷耀光通讯公司**  软件工程师 2007/11 ~ 2012/04
 	
-	-   开发多个平台(Windows、Linux)的光纤监测软件.
-	-   开发配套的ActiveX控件,动态连接库和SO库文件.
-	-   维护在uLinux平台上运行的程序.
+	-   开发多个平台(Windows、Linux)的光纤监测软件
+	-   开发配套的ActiveX控件,动态连接库和SO库文件
+	-   维护在uLinux平台上运行的程序
 	-   开发FOMA光纤监测系统
 
 项目经验
@@ -39,7 +39,7 @@ Dennis Resume
     -   编写开发文档
 *   两盘位存储产品
     -   编写WIFI连接模块(iwlist,wpa_cli,dhclient,ifconfig)
-    -   编写Riad创建删除模块(mount,umount,mdadm,fuser,mkfs)
+    -   编写Raid创建删除模块(mount,umount,mdadm,fuser,mkfs)
 *   存储软件新功能开发
     -   生成产品序列号
     -   磁盘LED状态灯控制(sg_map,sg_ses)
