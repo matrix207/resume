@@ -3,11 +3,13 @@ Dennis Resume
 
 主页  http://matrix207.github.com
 邮箱         dennis.cpp@gmail.com
+电话                  13798266046
 
 技术方向
 --------
 
 *	C/C++ 编程
+*   网络编程
 *	Linux 内核协议栈编程
 
 工作经历
@@ -62,13 +64,12 @@ Dennis Resume
 开发技术
 --------
 
-*   1.熟悉vim(IDE)
-*   2.掌握gcc, gdb, makefile
-*   3.熟悉svn, git, sed, awk, grep, find
-*   4.掌握Linux C/C++, shell编程
-*	5.学习Linux Kernel网络协议栈编程
-*	6.掌握完全Linux环境下工作(Fedora)
-*	7.掌握Windows环境C/C++, 批处理编程
+*   1.掌握C/C++, 数据结构和设计模式
+*   2.掌握gdb, makefile编写, shell编程
+*   3.熟悉Linux 多线程和多进程开发模型
+*	4.熟悉Linux IPC、I/O和网络等系统接口
+*	5.了解数据备份、存储和访问系统的设计要点
+*	6.了解网络服务器设计模型、性能瓶颈和优化方案
 
 教育经历
 --------
