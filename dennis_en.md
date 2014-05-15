@@ -3,6 +3,7 @@ Dennis Resume
 
 Blog  http://matrix207.github.com
 Mail         dennis.cpp@gmail.com
+Phone                 13798266046
 
 Interests
 ---------
@@ -14,6 +15,14 @@ Interests
 Work Experience
 ---------------
 
+*   **United Information Technology Co.,Ltd.** (Shenzhen, China)
+	
+    Senior software developer, 2012/07 - Present
+	
+    -	Do pre-research of new features under Linux and coding for storage software.	
+    -	Analysis and solve product bugs, as well as valiant.
+    -	Team work, solving technical difficulties.
+
 *   **Radiantech Inc** (Shanghai, China)
 	
     Junior software developer, 2007/11 - 2012/04
@@ -23,14 +32,6 @@ Work Experience
 	-	Family with VC++ 6.0, VS2005, SQL 2005, SVN, Putty, SecureCRT, Tera Term, DNW
 	-	Know CS mode network development, database program by ADO.
 	-	Maintain code for existing software.
-
-*   **United Information Technology Co.,Ltd.** (Shenzhen, China)
-	
-    Senior software developer, 2012/07 - 2013/11
-	
-    -	Do pre-research of new features under Linux and coding for storage software.	
-    -	Analysis and solve product bugs, as well as valiant.
-    -	Team work, solving technical difficulties.
 
 Project Experience
 ------------------
