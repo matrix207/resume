@@ -86,11 +86,9 @@ Education
 Skills
 ------
 
-*	5+ years c/c++ development experience of major project.
-
-*   Familiar with Linux gcc programming, makefile, bash.
-
-*	Master svn, git, vim, fedora linux.
-
-*	With a good communication skill and a strong desire to know and learn
-
+*   Master C/C++, data structure and design patterns
+*   Master gdb, makefile writting and shell program
+*   Family with Linux multi-thread and multi-process develop model
+*	Family with Linux IPC, I/O and network system API
+*	Understand the design features for data backup, storage and access systems
+*	Understand the network server design model, performance bottlenecks and optimization
