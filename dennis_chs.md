@@ -8,8 +8,8 @@ Dennis Resume
 技术方向
 --------
 
-*	C/C++ 编程
-*	Linux 内核协议栈编程
+*	C/C++,shell,python
+*	Linux网络协议开发,iscsi和cifs优化，IO性能优化
 
 工作经历
 --------
@@ -24,7 +24,7 @@ Dennis Resume
 	-   负责CI(Windows项目自动构建)软件的设计及编码工作
 	-	负责存储产品监控信息液晶屏显示软件的框架设计以及代码实现工作
 
-*	**捷耀光通讯科技有限公司**, 软件工程师 2007/11 ~ 2012/04
+*	**捷耀光通讯科技有限公司**, 软件工程师 2006/09 ~ 2012/05
 	
 	-   开发多个平台(Windows、Linux)的光纤监测软件
 	-   开发配套的ActiveX控件,动态连接库和SO库文件
@@ -41,17 +41,21 @@ Dennis Resume
 *   两盘位存储产品
     -   编写WIFI连接模块(iwlist,wpa_cli,dhclient,ifconfig)
     -   编写Raid创建删除模块(mount,umount,mdadm,fuser,mkfs)
+	-   编写设备发现模块,显示当前局域网所有设备
 *   存储软件新功能开发
     -   生成产品序列号
     -   磁盘LED状态灯控制(sg_map,sg_ses)
 *   SNMP监控信息
     -   编写开源软件Net-SNMP源码下的自定义Mib
-	-   查询系统信息，提供snmpget，snmpwalk查询和snmptrap告警
+	-   使用set进行重启,时间同步，修改trap ip,关闭蜂鸣器告警
+	-   使用get查询磁盘,raid状态，查询电源,CPU,内存,网络流量等信息
+	-   提供snmpget，snmpwalk查询和snmptrap告警
 	-   使用多线程和缓存方式提高响应速度
 	-   使用snmptrapd测试snmptrap
 *	CI(Windows 项目自动构建)
 	-    设计软件模块
 	-    编写开发文档
+	-    svn,devenv,iscc(400)
 *   FOMA 光纤监测告警系统
     -   项目架构设计
 	-	开发ActiveX元件

@@ -8,9 +8,9 @@ Phone                 13798266046
 Interests
 ---------
 
-*	C/C++ program
+*	C/C++,shell,python
 
-*   Linux kernel network stack
+*	Linux network programm, iscsi and cifs optimization，IO performance optimization
 
 Work Experience
 ---------------
@@ -25,7 +25,7 @@ Work Experience
 
 *   **Radiantech Inc** (Shanghai, China)
 	
-    Junior software developer, 2007/11 - 2012/04
+    Junior software developer, 2006/09 - 2012/05
 	
 	-	Develop FOMA(fiber optic cable Automatic Monitoring System) project.
 	-	Write components, like ActiveX controls, dynamic link library(DLL/SO).

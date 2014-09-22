@@ -40,6 +40,10 @@ Problems
   
 * pandoc support chinese, look [利用Pandoc将markdown文件转化为pdf](http://blog.sina.com.cn/s/blog_5ee56d450101dah2.html)
 
+* On ubuntu
+	sudo apt-get install texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended  
+	sudo apt-get install tex-gyre  
+
 Reference
 ------
 + [An elegant Markdown -> PDF/HTML resumé generator](https://github.com/mwhite/resume)
