@@ -2,7 +2,7 @@ Dennis Resume
 ===============
 
 Blog  http://matrix207.github.com
-Mail         dennis.cpp@gmail.com
+Mail            matrix207@126.com
 Phone                 13798266046
 
 Interests

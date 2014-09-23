@@ -2,7 +2,7 @@ Dennis Resume
 ===============
 
 主页  http://matrix207.github.com
-邮箱         dennis.cpp@gmail.com
+邮箱            matrix207@126.com
 电话                  13798266046
 
 技术方向
