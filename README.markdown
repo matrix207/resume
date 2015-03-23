@@ -15,6 +15,16 @@ Dependencies
 Be sure to run `git submodule update --init` to fetch the custom pandoc
 template which the resume is based on.
 
+* For fedora:
+
+		yum -y install pandoc
+		
+		yum -y install texlive texlive-latex texlive-xetex
+		yum -y install texlive-collection-latex
+		yum -y install texlive-collection-latexrecommended
+		yum -y install texlive-xetex-def
+		yum -y install texlive-collection-xetex
+
 Usage
 -----
 
@@ -33,6 +43,24 @@ variable `GRAVATAR_OPTION=--no-gravatar`.
 
 Problems
 -----
+* Not found specify font when run `make pdf`:  
+
+		pandoc: Error producing PDF from TeX source.
+		!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+		!
+		! fontspec error: "font-not-found"
+		! 
+		! The font "WenQuanYi Zen Hei Mono" cannot be found.
+		! 
+		! See the fontspec documentation for further information.
+		! 
+		! For immediate help type H <return>.
+		!............................................... 
+
+		[root@localhost resume]# fc-list |grep "WenQuanYi"
+		[root@localhost resume]# yum search "WenQuanYi Zen Hei Mono"
+		[root@localhost resume]# yum install -y wqy-zenhei-fonts.noarch
+
 * Install latex package on fedora 
 	su -c 'yum install texlive-titlesec'
 	su -c 'yum install texlive-titling'
@@ -47,3 +75,4 @@ Problems
 Reference
 ------
 + [An elegant Markdown -> PDF/HTML resumé generator](https://github.com/mwhite/resume)
++ [How to install LaTeX and XeLaTeX in Fedora 19](http://mednis.info/wp/?p=63)

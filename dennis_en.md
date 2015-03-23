@@ -36,6 +36,12 @@ Work Experience
 Project Experience
 ------------------
 
+*   **LIO**
+
+    Linux iscsi-target, kernel mode
+
+    -   Using LIO instead of IET for storage service
+
 *   **CI**  
     Auto compile and package project  
     -   Design architecture and Implementing sub-modules
