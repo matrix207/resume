@@ -17,7 +17,7 @@ Work Experience
 
 *   **United Information Technology Co.,Ltd.** (Shenzhen, China)
 	
-    Senior software developer, 2012/07 - Present
+    Senior software developer, 2012/07 - 2015/05
 	
     -	Do pre-research of new features under Linux and coding for storage software.	
     -	Analysis and solve product bugs, as well as valiant.
@@ -42,8 +42,9 @@ Project Experience
 
     -   Using LIO instead of IET for storage service
 
-*   **CI**  
-    Auto compile and package project  
+*   **CI**
+
+    Auto compile and package project
     -   Design architecture and Implementing sub-modules
 
 *   **2baynas**   
